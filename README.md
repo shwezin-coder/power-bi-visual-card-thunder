@@ -1,5 +1,8 @@
 # power-bi-visual-thunder-card
 This is the example of PowerBI visual thunder Card.
+# PowerBI Card
+![image](https://github.com/shwezin-coder/power-bi-visual-card-thunder/assets/70483157/50f3b1bc-faa7-49b5-b0aa-09c13d194f01)
+
 # Reference Article
 https://medium.com/microsoft-power-bi/6-easy-steps-to-make-a-professional-kpi-in-power-bi-dc9949257aa6
 # Dataset generator

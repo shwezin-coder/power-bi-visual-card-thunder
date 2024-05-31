@@ -1,8 +1,7 @@
 # power-bi-visual-thunder-card
 This is the example of PowerBI visual thunder Card.
 # PowerBI Card
-![image](https://github.com/shwezin-coder/power-bi-visual-card-thunder/assets/70483157/b32388d6-d181-473b-96d8-cb0903829fd3)
-
+![image](https://github.com/shwezin-coder/power-bi-visual-card-thunder/assets/70483157/bf59d67c-afe3-4a38-8c7d-8664200d0b10)
 
 # Reference Article
 https://medium.com/microsoft-power-bi/6-easy-steps-to-make-a-professional-kpi-in-power-bi-dc9949257aa6
